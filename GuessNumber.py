@@ -7,7 +7,7 @@ guess = int(input("Please guess the number:\n"))    # Taking input from the user
 
 
 
-
+# Using if else statements to make conditions.
 if guess == hidden:
     print("Bravo! Correct. ")
 elif guess < hidden:
