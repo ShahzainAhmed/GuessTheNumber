@@ -3,7 +3,7 @@ import random
 
 hidden = random.randrange(1, 100)   # Setting a range of random numbers from 1 to 100. 
 
-guess = int(input("Please guess the number:\n"))
+guess = int(input("Please guess the number:\n"))    # Taking input from the user. 
 
 
 
