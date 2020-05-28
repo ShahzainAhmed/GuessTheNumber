@@ -1,2 +1,1 @@
-# GuessTheNumber
-game of guessing the number. 
+## Game of Guessing the Number.
