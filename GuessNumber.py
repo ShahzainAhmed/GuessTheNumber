@@ -17,8 +17,7 @@ elif guess > hidden:
 
     
     
-    
-    
+# Using print statement to print the original random number which you had to guess. xD 
 print("The real random number was: " + str(hidden))
 
 
