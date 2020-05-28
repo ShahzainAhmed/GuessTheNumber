@@ -1,4 +1,4 @@
-
+# Importing random module.
 import random
 
 hidden = random.randrange(1, 100)
